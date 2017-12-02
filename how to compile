@@ -1,0 +1,5 @@
+how to compile
+
+http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/compile.html
+
+   g++ -Wall -std=c++11 -o prog1 prog1.cpp
